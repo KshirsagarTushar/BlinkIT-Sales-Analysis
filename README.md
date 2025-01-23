@@ -11,7 +11,7 @@ Quick-Commerce
 Microsoft Excel
 
 # Dashboard 📊
-<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/CUSTOMERCOMPLAINTSANALYTICS_17346312504190/Dashboard">Customer Complaints Analytics
+<a href="https://1drv.ms/x/c/f346036d755c1182/EazL7PVJBadCnA3V20du3pEBeKAXnQTLF_dRJ0t5MqryiQ?e=khtToK">BlinkIT Sales Analysis
 
 # Sections 📂
 - Project Objective
@@ -173,6 +173,4 @@ Based on the analysis, the following strategic recommendations are made to help 
 The BlinkIT Sales Analysis provides valuable insights into the sales performance, consumer preferences, and outlet dynamics across multiple dimensions. With a total sales volume of ₹1.20M and an average sales rating of 4.0, the analysis highlights key trends such as the dominance of Low Fat products, which contribute 65% of total sales, and the strong performance of Tier 1 outlets and medium-sized stores. Categories like Fruits and Vegetables and Snack Foods lead in sales, while niche categories like Household and Dairy exhibit higher average sales per item. Additionally, Supermarket Type 1 emerges as the top-performing outlet type, both in terms of total sales and items sold. These findings underscore the importance of focusing on high-performing outlets, consumer-preferred products, and consistent customer satisfaction to drive future growth and operational efficiency.
 
 # Relevant Links 🔗
-<a href="https://www.linkedin.com/posts/tushar-dk_tableau-customerexperience-dataanalytics-activity-7276589836822573057-Q_HF?utm_source=share&utm_medium=member_desktop">LinkedIn Post
-
-<a href="https://public.tableau.com/app/profile/tushar.kshirsagar2148/viz/CUSTOMERCOMPLAINTSANALYTICS_17346312504190/Dashboard">Tableau Public (Customer Complaints Analytics)
+<a href="https://1drv.ms/x/c/f346036d755c1182/EazL7PVJBadCnA3V20du3pEBeKAXnQTLF_dRJ0t5MqryiQ?e=khtToK">MS OneDrive (BlinkIT Sales Analysis)
