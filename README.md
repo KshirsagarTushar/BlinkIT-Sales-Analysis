@@ -174,3 +174,5 @@ The BlinkIT Sales Analysis provides valuable insights into the sales performance
 
 # Relevant Links 🔗
 <a href="https://1drv.ms/x/c/f346036d755c1182/EazL7PVJBadCnA3V20du3pEBeKAXnQTLF_dRJ0t5MqryiQ?e=khtToK">MS OneDrive (BlinkIT Sales Analysis)
+
+<a href="https://www.linkedin.com/posts/tushar-dk_dataanalytics-exceldashboard-salesanalysis-activity-7288186244637802499-oTOb?utm_source=share&utm_medium=member_desktop">LinkedIn Post
